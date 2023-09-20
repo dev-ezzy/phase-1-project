@@ -28,6 +28,22 @@ This report utilizes pandas , numpy, seaborn,matplotlib and sql as our primary d
     * Another visual is a timeseries plot against popularity
       ![image](https://github.com/dev-ezzy/phase-1-project/assets/99862693/c95dfcb6-3c19-481a-89ce-045f6aac259b)
       It explains how popularity of movies behave as time goes by.
+
+##Conclusion
+ Having seen the relationship between some key factors, we have been able to gain some insight from the data. Even though we have not conducted analyses on key factors like budget and return on investment, we have gotten a glimpse of what to start with when entering the market.
+Here are few recommendations I would like to make based on and outside my research;
+    • I would recommend that you invest on sales and marketing strategies including targeted advertisements to build anticipation for upcoming releases.
+    • Based on the research I have done, I have seen a potential on the market if you invest your money on the movies with viewer ratings of PG, NR and R as the y have most category of genres meaning that it Is more popular in the market.
+    • Pick genre that has low budget and mostly runtime of one and half hours.
+##Challenges
+    •  I had less time to conduct my research and would ask for more time in the future
+    • Reading data from huge data sets which requires a lot of time
+##Next steps
+    1. Explore and investigate Microsoft’s products and their market share.
+    2. Have better visualizations that offer more insight
+    3. Explore other records from other databases
+    4. Advice more on return on investment.
+
 ## Developer instructions
   If you are intrested in interacting with this data or you want to do more analysis about the problem under study, 
   you can clown this repository and work on it on your machine. You can use the https link or the SSH to clone or fork this 
